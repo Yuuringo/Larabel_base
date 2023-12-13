@@ -1,5 +1,5 @@
 
-# Larabel 10 Nginx Mysql Base
+# laravel 10 nginx mysql base
 
 using base project or study etc
 
@@ -25,7 +25,7 @@ using base project or study etc
   + `$ composer create-project --prefer-dist laravel/laravel {your_project_name} "10.*"`
   + `$ chown www-data storage/ -R`
 
-## Larabel
+## laravel
 
 + change `.env` DB_XXXX etc...
 ```
